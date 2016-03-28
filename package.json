@@ -11,7 +11,7 @@
     "functional"
   ],
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "https://github.com/atom-community/test",
   "license": "MIT",
   "engines": {
